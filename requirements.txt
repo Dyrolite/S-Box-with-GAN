@@ -1,0 +1,7 @@
+# Dependensi aplikasi Streamlit (lokal Windows dan Streamlit Community Cloud).
+# PyTorch TIDAK diperlukan oleh aplikasi; torch hanya dipakai di notebook Google Colab (sudah tersedia di Colab).
+streamlit>=1.40
+numpy>=1.26
+pandas>=2.0
+Pillow>=10.0
+matplotlib>=3.8
